@@ -1,5 +1,5 @@
 <?php
-$servername = "loan-app.c1a2c80aoes9.ap-south-1.rds.amazonaws.com";
+$servername = "loan-app.cibgqw0uga7s.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "admin123";
 $dbname = "quickloan_db";
