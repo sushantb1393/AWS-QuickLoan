@@ -1,5 +1,5 @@
 <?php
-$servername = "loan-app.cibgqw0uga7s.us-east-1.rds.amazonaws.com";
+$servername = "laon-app.cibgqw0uga7s.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "admin123";
 $dbname = "quickloan_db";
@@ -10,3 +10,4 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 ?>
+
